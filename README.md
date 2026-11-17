@@ -1,51 +1,54 @@
-# 👋 Hi, I'm Dominick Palma  
+# 👋 Hi, I'm Dominick Palma
 
-💼 **Solutions Architect | Technical Consultant | Sales Engineer**  
-🌍 Experience across North America, LATAM, EMEA, and APAC  
-⚙️ Passionate about **enterprise integrations, automation, and next-gen solutions**
-
----
-
-## 🚀 About Me  
-- 8+ years of experience in **sales, technical consulting, and solution engineering**  
-- Influenced **$10M+ in revenue** at BlueConic, closing **70+ global deals**  
-- Led onboarding and enablement sessions for **100+ Marketing, Product, and Sales team members**  
-- Accelerated enterprise integrations by **500%**, reducing sales cycles dramatically  
-- Excited about **AI, automation, and system integration** for enterprise clients  
+💼 **Forward Deployed Engineer at [BlueConic](https://www.blueconic.com)**  
+🌍 Based between NYC and Philly, with deployments across North America, LATAM, EMEA and APAC  
+⚙️ I build **AI agents, MCP servers and enterprise integrations**
 
 ---
 
-## 🛠️ Skills & Expertise  
-- **Solution Engineering**: Pre-sales technical design, enterprise integrations  
-- **Systems & Tools**: Salesforce, Segment, HubSpot, CDPs, APIs, Terraform basics  
-- **Consulting**: Workflow optimization, automation strategy, technical enablement  
-- **AI & Innovation**: Prompt engineering, LLM-based solutions, internal tooling  
+## 🚀 About Me
+I sit between enterprise customers and the product: building integrations, shipping features to production, and turning repeat requests into things the platform does for everyone.
+
+- Forward Deployed Engineer at BlueConic, after 8+ years in solutions and sales engineering
+- **70+ enterprise deployments** and **$10M+ in influenced revenue**
+- Founding solutions consultant at **Jestor (YC S21)**
+- Led onboarding and enablement for **100+ Marketing, Product and Sales team members**
 
 ---
 
-## 📈 Career Highlights  
-- **BlueConic**: Influenced $10M+ in revenue, global deal support  
-- **Enablement Leader**: Trained 100+ cross-functional team members  
-- **Integrator**: Cut integration timelines by 500% with smarter workflows  
-- **Global Reach**: Closed deals across North America, LATAM, EMEA, and APAC  
+## 🔨 What I'm Building
+- **AI agents and MCP servers** for internal tooling, like asking campaign analytics questions in plain language
+- **Customer data integrations** across Salesforce, Segment, Klaviyo, Braze, SFMC, HubSpot and Blueshift
+- **Fairway IQ**, a golf tracker I built for my quest to break 100
+
+## 📦 Projects
+| Project | What it does |
+| --- | --- |
+| [cdp_lite](https://github.com/dompal25/cdp_lite) | Local CDP sandbox: event ingest, identity resolution, RFM features and ML-predicted segments over DuckDB |
+| [toolkit](https://github.com/dompal25/toolkit) | Scripts for spinning up demos, mocking APIs, replaying webhooks and packaging POCs |
 
 ---
 
-## 🧰 Projects & Interests  
-Here I’ll share things I’m exploring and building:  
-- ⚡ **AI Prompt Engineering** & Martech Integrations  
-- 🛠️ **Maker Projects**: 3D printing, woodworking, electronics tinkering  
-- 🏡 **Real Estate**: Building long-term wealth through investments  
-- 🌱 **Personal Growth**: Evolving toward a CPO/CTO path  
+## 🛠️ Skills & Stack
+- **Engineering**: Python, Ruby on Rails, TypeScript, Postgres, DuckDB, Docker, FastAPI
+- **AI**: MCP, agentic workflows, RAG, LLM-based internal tools
+- **Integrations**: Salesforce, Segment, HubSpot, CDPs, REST APIs, webhooks
+- **Solutions**: Technical discovery, solution architecture, POCs, enablement
 
 ---
 
-## 📫 Connect with Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/dominickpalma/)  
-- 🧑‍💻 [GitHub](https://github.com/dompal25)  
+## 🧰 Outside of Work
+- 🛠️ **Maker projects**: 3D printing, woodworking, electronics tinkering
+- 🏡 **Real estate**: renovating houses in Philly
+- 🌱 **Philly startup scene**: workshops at LaunchPad Philly and time with local founders
+
+---
+
+## 📫 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/dominickpalma/)
 - ✉️ palmadominick@gmail.com
 
 ---
 
-### ⭐ Fun Fact  
-When I’m not architecting solutions or tinkering with AI, you’ll find me in my workshop making something—anything—from **wood, code, or circuits.**
+### ⭐ Fun Fact
+When I'm not wiring up integrations or tinkering with AI, you'll find me in my workshop making something out of **wood, code or circuits.**
